@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Zaid Zaki</h1>
 <h3 align="center">AI Engineer Intern Application – Zaid Bachelor’s in Artificial Intelligence (FAST-NUCES, 2025) Expertise in AI Chatbots (RAG), API Integration, RPA, Web Development, and Cloud Computing Deployment Fire-Fighting Robot Project Showcased in Turkey</h3>
+<img src="https://github.com/Zaid-Zaki/Zaid-Zaki/blob/main/Dark%20Laptop%20Review%20Youtube%20Thumbnail.png" 
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaid-zaki&label=Profile%20views&color=0e75b6&style=flat" alt="zaid-zaki" /> </p>
 
